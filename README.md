@@ -4,6 +4,8 @@
 
 # OFFLINE CONVO ONLY LESTEST VERSION USE AGAIN RM -RF AND GIT
 
+# EK BAT DHYAN ME RHE ENCRYPTION CHANGE KRNE KI KOSIS KROGE TO SYSTEM DIMAGE HO SKTA HAI BAD ME MT RONA WARNING ⚠️
+
 Copyright Notice  
 
 This repository and all its contents are protected under copyright law. Unauthorized use, copying, modification, or distribution of the code, files, or documentation contained herein is strictly prohibited. The following restrictions apply:  
